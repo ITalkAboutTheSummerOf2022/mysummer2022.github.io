@@ -20,8 +20,8 @@ content="This website is made by a student from Milpitas Extension. It is about 
 </button>
 </div>
 <div class="dropdown">
-<button class="dropbtn">
-<a class="minibox" href="https://htmlpreview.github.io/?https://github.com/iwastaughtbymbatme/mysummer2022.github.io/blob/main/orangecounty">Orange County</a>
+<button class="dropbtn" class="minibox">
+<a href="https://htmlpreview.github.io/?https://github.com/iwastaughtbymbatme/mysummer2022.github.io/blob/main/orangecounty">Orange County</a>
 </button>
 <div class="dropdown-content">
 <div class="dropdown">
