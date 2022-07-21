@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Lightning</title>
+<link rel="stylesheet" type="text/css"
+    href="Washington DC style.css" media="all" />
+  </head>
+  <body>
+    <header>
+    <div class="dropdown">
+<button class="dropbtn">
+<a href="/iwastaughtbymbatme/mysummer2022.github.io/blob/main/homepage">Home</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="/iwastaughtbymbatme/mysummer2022.github.io/blob/main/washingtondc">Washington DC</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="/iwastaughtbymbatme/mysummer2022.github.io/blob/main/orangecounty">Orange County</a>
+</button>
+<div class="dropdown-content">
+<div class="dropdown">
+<button class="dropbtn">
+<a href="/iwastaughtbymbatme/mysummer2022.github.io/blob/main/universalstudios">Universal Studios</a>
+</button>
+<div class="dropdown-content">
+
+<a href="/iwastaughtbymbatme/mysummer2022.github.io/blob/main/despicablememinionmayhem">Despicable Me Minion Mayhem</a>
+<a href="/iwastaughtbymbatme/mysummer2022.github.io/blob/main/Harry%20Potter%20and%20the%20Forbidden%20Journey">Harry Potter and the Forbidden Journey™
+</a>
+<a href="/iwastaughtbymbatme/mysummer2022.github.io/blob/main/Jurassic%20World%20–%20The%20Ride">Jurassic World – The Ride</a>
+<a href="/iwastaughtbymbatme/mysummer2022.github.io/blob/main/Revenge%20of%20the%20Mummy%20–%20The%20Ride">Revenge of the Mummy – The Ride</a>
+<a href="/iwastaughtbymbatme/mysummer2022.github.io/blob/main/The%20World-Famous%20Studio%20Tour">The World-Famous Studio Tour</a>
+<a href="/iwastaughtbymbatme/mysummer2022.github.io/blob/main/TRANSFORMERS%20The%20Ride-3D">TRANSFORMERS™: The Ride-3D</a>
+<a href="/iwastaughtbymbatme/mysummer2022.github.io/blob/main/WaterWorld">WaterWorld</a>
+</div>
+</div>
+</div>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="/iwastaughtbymbatme/mysummer2022.github.io/blob/main/milpitasextension">Milpitas Extension</a>
+  </button>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="/iwastaughtbymbatme/mysummer2022.github.io/blob/main/quiz">Quiz</a>
+  </button>
+</div>
+
+    <h1>Lightning</h1>
+  </header>
+    <main>
+<iframe src="https://drive.google.com/file/d/1WYOar_UE4JyApei2K0OmvVuhL4Xz3wo8/preview" width="480" height="360"
+allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1DuURmlXJqQTG05ny0y6jYeZGUwbgXfZM/preview" width="480" height="360"
+allow="autoplay"></iframe>
+<p>Don't go to Washington DC if you don't like lightning. I was only there because the chaperones took so long to take their students to the bus.
+  Not only did they take too long; they also took a picture of all the students when we were in "danger".
+  They also took so insanely long to take that picture because they probably took more than one picture.
+  Unfortunately, I don't have these pictures.</p>
+  <p>
+  <a href="/Users/sjccuser/Downloads/Washington%20DC.html">Washington DC</a>
+</p>
+</main>
+<footer>
+<address class="box">
+Last Updated: July 19, 2022
+<br>Copyright &copy; 2022
+</address>
+</footer>
+</body>
+</html>
