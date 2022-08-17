@@ -4,6 +4,7 @@
   <title>Washington DC</title>
   <link rel="stylesheet" type="text/css"
       href="Washington DC style.css" media="all" />
+      <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAA8P8A+v+ZAPz86wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERAAAAAREREREAAAABEREREQAAAAERERERAAAAAREREREAAAABERERERAAAAEREREREAAAARERERERAAABESIhERERERESIiIiERERESIiIiIhERERIiIiIiERERESIiIiIRERERESIiIhEREREREREREREREREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon" />
     </head>
     <body>
     <header>
@@ -148,7 +149,7 @@ width="640" height="262" alt="National Museum of American History from Outside (
       </ol>
     </ol>
 <address class="box">
-Last Updated: July 20, 2022
+Last Updated: August 17, 2022
 <br>Copyright &copy; 2022
 </address>
 </footer>
