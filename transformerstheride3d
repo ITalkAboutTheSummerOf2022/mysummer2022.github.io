@@ -5,6 +5,7 @@
 </title>
 <link rel="stylesheet" type="text/css"
     href="style[1].css" media="all" />
+    <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAA8P8A+v+ZAPz86wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERAAAAAREREREAAAABEREREQAAAAERERERAAAAAREREREAAAABERERERAAAAEREREREAAAARERERERAAABESIhERERERESIiIiERERESIiIiIhERERIiIiIiERERESIiIiIRERERESIiIhEREREREREREREREREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon" />
 </head>
 <body>
 <header>
@@ -94,7 +95,7 @@ The young monkey did accidentally break line chains which reminded me of when I 
     </ol>
   </ol>
 <address class="box">
-Last Updated: July 20, 2022
+Last Updated: August 17, 2022
 <br>Copyright &copy; 2022
 </address>
 </footer>
