@@ -51,3 +51,27 @@
     <a href="https://htmlpreview.github.io/?https://github.com/iwastaughtbymbatme/mysummer2022.github.io/blob/main/quiz">Quiz</a>
   </button>
 </div>
+<h1>Orange County</h2>
+</header>
+<main>
+<h2>Origami Embed Test</h2>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yMQlNToPosE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+</main>
+<footer>
+  <ol>
+    <li>Sources:</li>
+    <ol>
+  <li>
+    <a target="_blank" class="box" href="https://www.youtube.com/watch?v=yMQlNToPosE">https://youtu.be/yMQlNToPosE</a>
+  </li>
+</ol>
+</ol>
+<address class="box">
+Last Updated: September 30, 2022
+<br>Copyright &copy; 2022
+</address>
+</footer>
+</body>
+</html>
