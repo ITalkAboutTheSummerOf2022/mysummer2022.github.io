@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <title>Milpitas Extension</title>
+  <title>Origami Video Embed</title>
   <link rel="stylesheet" type="text/css"
       href="quizstyle.css" media="all" />
       <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAA8P8A+v+ZAPz86wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERAAAAAREREREAAAABEREREQAAAAERERERAAAAAREREREAAAABERERERAAAAEREREREAAAARERERERAAABESIhERERERESIiIiERERESIiIiIhERERIiIiIiERERESIiIiIRERERESIiIhEREREREREREREREREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon" />
@@ -51,7 +51,7 @@
     <a href="https://htmlpreview.github.io/?https://github.com/iwastaughtbymbatme/mysummer2022.github.io/blob/main/quiz">Quiz</a>
   </button>
 </div>
-<h1>Origami Embed Test</h2>
+<h1>Origami Duck</h2>
 </header>
 <main>
 <p>
