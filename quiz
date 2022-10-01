@@ -112,7 +112,7 @@ June 13</label>
     <input type="radio" name="ushdate" value="0">
     June 13</label>
 
-    <h2>Who did I go to Washington DC with?</h2>
+    <h2>Whom did I go to Washington DC with?</h2>
     <label for="school">
     <input type="radio" name="dcpeople" value="10">
     School</label><br>
@@ -206,7 +206,7 @@ June 13</label>
 
 <footer>
 <br><address class="box">
-Last Updated: August 17, 2022
+Last Updated: September 30, 2022
 <br>Copyright &copy; 2022
 </address>
 </footer>
