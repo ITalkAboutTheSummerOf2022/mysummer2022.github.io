@@ -51,6 +51,11 @@
     <a href="https://htmlpreview.github.io/?https://github.com/iwastaughtbymbatme/mysummer2022.github.io/blob/main/quiz">Quiz</a>
   </button>
 </div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/iwastaughtbymbatme/mysummer2022.github.io/blob/main/geometrydash">Geometry Dash</a>
+  </button>
+</div>
     <h1>Washington DC</h1>
   </header>
   <main>
@@ -149,8 +154,8 @@ width="640" height="262" alt="National Museum of American History from Outside (
       </ol>
     </ol>
 <address class="box">
-Last Updated: August 17, 2022
-<br>Copyright &copy; 2022
+Last Updated: April 28, 2024
+<br>Copyright &copy; 2024
 </address>
 </footer>
 </body>
