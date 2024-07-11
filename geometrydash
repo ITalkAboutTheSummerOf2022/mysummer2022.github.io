@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <title>Geometry Dash Videos Test</title>
+  <title>Annoying Videos Test</title>
   <link rel="stylesheet" type="text/css"
       href="quizstyle.css" media="all" />
       <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAA8P8A+v+ZAPz86wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERAAAAAREREREAAAABEREREQAAAAERERERAAAAAREREREAAAABERERERAAAAEREREREAAAARERERERAAABESIhERERERESIiIiERERESIiIiIhERERIiIiIiERERESIiIiIRERERESIiIhEREREREREREREREREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon" />
@@ -53,14 +53,14 @@
 </div>
 <div class="dropdown">
   <button class="dropbtn">
-    <a href="https://htmlpreview.github.io/?https://github.com/iwastaughtbymbatme/mysummer2022.github.io/blob/main/geometrydash">Geometry Dash</a>
+    <a href="https://htmlpreview.github.io/?https://github.com/iwastaughtbymbatme/mysummer2022.github.io/blob/main/annoyingvideos">Annoying Videos</a>
   </button>
 </div>
 <h1>Geometry Dash</h2>
 </header>
 <main>
 <p>
-<iframe src="https://drive.google.com/file/d/1j4GkjbwNRknEGHZSJMDA0GgAwaGIspV8/preview" width="560" height="315" allow="fullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q-MAR7n3qrQ?si=Poq0jEn7ZfIICjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe src="https://drive.google.com/file/d/1UNhYBlF8KzM_D9L-0R3wnYkIH_ei2xS_/preview" width="560" height="315" allow="fullscreen"></iframe>
 <iframe src="https://drive.google.com/file/d/1a8aftkI2YoBiHrP7bYafJ8LKDq_EQufA/preview" width="560" height="315" allow="fullscreen"></iframe>
 <iframe src="https://drive.google.com/file/d/1tj6L6o4CCURqvnuINrR3nHR-c-NUxWhP/preview" width="560" height="315" allow="fullscreen"></iframe>
@@ -71,7 +71,7 @@
     <li>Sources:</li>
     <ol>
   <li>
-    <a target="_blank" class="box" href="https://drive.google.com/file/d/1j4GkjbwNRknEGHZSJMDA0GgAwaGIspV8/view?usp=sharing">https://drive.google.com/file/d/1j4GkjbwNRknEGHZSJMDA0GgAwaGIspV8/view</a>
+    <a target="_blank" class="box" href="https://www.youtube.com/watch?v=q-MAR7n3qrQ">https://www.youtube.com/watch?v=q-MAR7n3qrQ</a>
     <br><a target="_blank" class="box" href="https://drive.google.com/file/d/1UNhYBlF8KzM_D9L-0R3wnYkIH_ei2xS_/view?usp=sharing">https://drive.google.com/file/d/1UNhYBlF8KzM_D9L-0R3wnYkIH_ei2xS_/view</a>
     <br><a target="_blank" class="box" href="https://drive.google.com/file/d/1a8aftkI2YoBiHrP7bYafJ8LKDq_EQufA/view?usp=sharing">https://drive.google.com/file/d/1a8aftkI2YoBiHrP7bYafJ8LKDq_EQufA/view</a>
     <br><a target="_blank" class="box" href="https://drive.google.com/file/d/1tj6L6o4CCURqvnuINrR3nHR-c-NUxWhP/view?usp=sharing">https://drive.google.com/file/d/1tj6L6o4CCURqvnuINrR3nHR-c-NUxWhP/view</a>
