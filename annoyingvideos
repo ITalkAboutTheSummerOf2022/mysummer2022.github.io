@@ -61,9 +61,9 @@
 <main>
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q-MAR7n3qrQ?si=Poq0jEn7ZfIICjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe src="https://drive.google.com/file/d/1UNhYBlF8KzM_D9L-0R3wnYkIH_ei2xS_/preview" width="560" height="315" allow="fullscreen"></iframe>
-<iframe src="https://drive.google.com/file/d/1a8aftkI2YoBiHrP7bYafJ8LKDq_EQufA/preview" width="560" height="315" allow="fullscreen"></iframe>
-<iframe src="https://drive.google.com/file/d/1tj6L6o4CCURqvnuINrR3nHR-c-NUxWhP/preview" width="560" height="315" allow="fullscreen"></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/HsZsHkBSbFI?si=Poq0jEn7ZfIICjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q-MAR7n3qrQ?si=Poq0jEn7ZfIICjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q-MAR7n3qrQ?si=Poq0jEn7ZfIICjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 </main>
 <footer>
@@ -72,9 +72,9 @@
     <ol>
   <li>
     <a target="_blank" class="box" href="https://www.youtube.com/watch?v=q-MAR7n3qrQ">https://www.youtube.com/watch?v=q-MAR7n3qrQ</a>
-    <br><a target="_blank" class="box" href="https://drive.google.com/file/d/1UNhYBlF8KzM_D9L-0R3wnYkIH_ei2xS_/view?usp=sharing">https://drive.google.com/file/d/1UNhYBlF8KzM_D9L-0R3wnYkIH_ei2xS_/view</a>
-    <br><a target="_blank" class="box" href="https://drive.google.com/file/d/1a8aftkI2YoBiHrP7bYafJ8LKDq_EQufA/view?usp=sharing">https://drive.google.com/file/d/1a8aftkI2YoBiHrP7bYafJ8LKDq_EQufA/view</a>
-    <br><a target="_blank" class="box" href="https://drive.google.com/file/d/1tj6L6o4CCURqvnuINrR3nHR-c-NUxWhP/view?usp=sharing">https://drive.google.com/file/d/1tj6L6o4CCURqvnuINrR3nHR-c-NUxWhP/view</a>
+    <br><a target="_blank" class="box" href="https://www.youtube.com/watch?v=HsZsHkBSbFI">https://www.youtube.com/watch?v=HsZsHkBSbFI</a>
+    <br><a target="_blank" class="box" href="https://www.youtube.com/watch?v=q-MAR7n3qrQ">https://www.youtube.com/watch?v=q-MAR7n3qrQ</a>
+    <br><a target="_blank" class="box" href="https://www.youtube.com/watch?v=q-MAR7n3qrQ">https://www.youtube.com/watch?v=q-MAR7n3qrQ</a>
   </li>
 </ol>
 </ol>
